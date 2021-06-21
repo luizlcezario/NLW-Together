@@ -1,5 +1,5 @@
 <<p align="center">
-   <img src="./.github/logo.png" alt="NWL-Together" width="280"/>
+   <img src="./.github/logo.svg" alt="NWL-Together" width="280"/>
 </p>
 
 <p align="center">	
@@ -19,13 +19,8 @@
   </a>
 </p>
 
-> :rocket: Projeto feito para conectar professores e estudantes, feito na Next Level Week #2 @Rocketseat
+> :rocket: Projeto feito para conectar professores e estudantes, feito na Next Level Week #6 @Rocketseat
 
-<p align="center">
-    <a href="README.md">Inglês</a>
-    ·
-    <a href="README-pt.md">Português</a>
- </p>
 
 <div align="center">
   <sub>The NLW #2 project. Built with ❤︎ by
