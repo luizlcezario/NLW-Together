@@ -4,17 +4,16 @@
 
 <p align="center">	
    <a href="https://www.linkedin.com/in/luiz-lima-cezario/">
-      <img alt="Luiz Cezario" src="https://img.shields.io/badge/-luizCezario-8257E5?style=flat&logo=Linkedin&logoColor=white" />
+      <img alt="Luiz Cezario" src="https://img.shields.io/badge/-luizCezario-4c378b?style=flat&logo=Linkedin&logoColor=white" />
    </a>
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/luizlcezario/NWL-Together?color=4c378b">
 
-  <a aria-label="Completed" href="https://nextlevelweek.com/episodios/omnistack/edicao/2">
-    <img src="https://img.shields.io/badge/NWL-Together-NLW 2.0-8257E5?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
+  <a aria-label="Completed" href="https://nextlevelweek.com/episodios/node/aula-1/edicao/6">
+    <img src="https://img.shields.io/badge/NWL-Together-NLW 2.0-4c378b?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
   </a>
   <a href="https://github.com/luizlcezario/NWL-Together/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/luizlcezario/NWL-Together?color=4c378b">
   </a> 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-8257E5">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-4c378b">
   <a href="https://github.com/luizlcezario/N/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/luizlcezario/NWL-Together?color=4c378b&logo=github">
   </a>
