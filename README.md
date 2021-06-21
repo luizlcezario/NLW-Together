@@ -1,7 +1,6 @@
-<<p align="center">
-   <img src="./.github/logo.svg" alt="NWL-Together" width="280"/>
-</p>
-
+<<div>
+   <svg src="./.github/logo.svg" alt="NWL-Together" width="280"></svg>
+</div>
 <p align="center">	
    <a href="https://www.linkedin.com/in/luiz-lima-cezario/">
       <img alt="Luiz Cezario" src="https://img.shields.io/badge/-luizCezario-4c378b?style=flat&logo=Linkedin&logoColor=white" />
