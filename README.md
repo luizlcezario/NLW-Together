@@ -1,5 +1,8 @@
-<<div>
-   <svg src="./.github/logo.svg" alt="NWL-Together" width="280"></svg>
+<<div style="background: rgb(130,87,230);
+background: linear-gradient(90deg, rgba(130,87,230,1) 0%, rgba(71,99,255,1) 73%, rgba(4,211,97,1) 100%);">
+<p align="center">
+   <img src="./.github/logo.png" alt="NWL-Together" width="280"/>
+</p>
 </div>
 <p align="center">	
    <a href="https://www.linkedin.com/in/luiz-lima-cezario/">
