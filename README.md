@@ -37,7 +37,7 @@
 * [Como rodar](#construction_worker-como-rodar)
 * [Encontrou um bug? Ou está faltando uma feature?](#bug-problemas)
 * [Contribuindo](#tada-contribuindo)
-* [Licença](#closed_book-licencia)
+* [Licença](#closed_book-Licença)
 
 # :computer: Tecnologias
 Esse projeto foi feito utilizando as seguintes tecnologias:
