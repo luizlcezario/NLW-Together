@@ -47,8 +47,9 @@ Esse projeto foi feito utilizando as seguintes tecnologias:
 
 # :rocket: Funcionalidades
 
-* Backend 
-
+* Criando um backend para a aplicacao valoriza onde sera necessario pode ser criado usuarios e tags e feito 
+  toda a logica com JWT para que o usuario se mantenha logado e se tenha essa autentificacao 
+ 
 # :construction_worker: Como rodar
 ```bash
 # Clone o Repositoria
@@ -61,12 +62,21 @@ $ git clone https://github.com/luizlcezario/NLW-Together.git
 $ cd NLW-Together
 
 # Instale as depedencias
-$ yarn install
+$ yarn 
+or 
+$ npm install
+
+# Instale o banco de dados 
+$ yarn typeorm migration:run 
+or 
+$ npm run typeorm migration:run
 
 # Rode a aplicação
-$ yarn start
+$ yarn dev
+or 
+$ npm run dev
 ```
-Acesse a API: http://localhost:3333/
+Acesse a API: http://localhost:3000/
 
 
 # :bug: Problemas

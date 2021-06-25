@@ -11,6 +11,9 @@ import { v4 as uuid } from 'uuid'
    
    @Column()
    email:string
+
+   @Column()
+   password:string
    
    @Column()
    admin:boolean
